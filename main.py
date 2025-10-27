@@ -29,3 +29,15 @@ resources = {
     "milk": 200,
     "coffee": 100
 }
+
+# TODO: 1. Print of all coffee machine resources
+
+
+# TODO: 2. process payment
+
+
+# TODO: 3. start the machine and check resources sufficient to make drink order.
+
+
+# TODO: 4. Creating a while loop to keep asking the user for new order
+
